@@ -1,0 +1,8 @@
+loaded best_checkpoint (epoch 0, best_acc 0.6566, acc_bi 0.6250)
+Positive Sample Accuracy: 0.4905
+Negative Sample Accuracy: 0.8918
+Total Accuracy: 0.7197
+Total Precision: 0.7969
+Total Recall: 0.4857
+Total F1 Score: 0.6036
+loaded best_checkpoint (epoch 1, best_acc 0.7355, acc_bi 0.7346)

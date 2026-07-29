@@ -1,0 +1,140 @@
+loaded best_checkpoint (epoch 0, best_acc 0.5413, acc_bi 0.5412)
+Positive Acc: 0.6659
+Negative Acc: 0.4296
+Acc: 0.5483
+P: 0.5412
+Recall: 0.6659
+F1: 0.5971
+loaded best_checkpoint (epoch 1, best_acc 0.5775, acc_bi 0.5775)
+Positive Acc: 0.5622
+Negative Acc: 0.6170
+Acc: 0.5895
+P: 0.5973
+Recall: 0.5622
+F1: 0.5792
+loaded best_checkpoint (epoch 2, best_acc 0.5947, acc_bi 0.5947)
+Positive Acc: 0.5910
+Negative Acc: 0.5914
+Acc: 0.5912
+P: 0.5938
+Recall: 0.5910
+F1: 0.5924
+loaded best_checkpoint (epoch 3, best_acc 0.6071, acc_bi 0.6071)
+Positive Acc: 0.5893
+Negative Acc: 0.6228
+Acc: 0.6060
+P: 0.6122
+Recall: 0.5893
+F1: 0.6005
+loaded best_checkpoint (epoch 4, best_acc 0.6105, acc_bi 0.6104)
+Positive Acc: 0.6578
+Negative Acc: 0.5698
+Acc: 0.6141
+P: 0.6071
+Recall: 0.6578
+F1: 0.6315
+loaded best_checkpoint (epoch 5, best_acc 0.6262, acc_bi 0.6261)
+Positive Acc: 0.7051
+Negative Acc: 0.5413
+Acc: 0.6236
+P: 0.6083
+Recall: 0.7051
+F1: 0.6531
+loaded best_checkpoint (epoch 9, best_acc 0.6331, acc_bi 0.6331)
+Positive Acc: 0.6388
+Negative Acc: 0.5937
+Acc: 0.6164
+P: 0.6137
+Recall: 0.6388
+F1: 0.6260
+loaded best_checkpoint (epoch 10, best_acc 0.6392, acc_bi 0.6392)
+Positive Acc: 0.6786
+Negative Acc: 0.5629
+Acc: 0.6210
+P: 0.6107
+Recall: 0.6786
+F1: 0.6428
+loaded best_checkpoint (epoch 14, best_acc 0.6418, acc_bi 0.6418)
+Positive Acc: 0.6308
+Negative Acc: 0.6118
+Acc: 0.6213
+P: 0.6215
+Recall: 0.6308
+F1: 0.6261
+loaded best_checkpoint (epoch 17, best_acc 0.6424, acc_bi 0.6425)
+Positive Acc: 0.6227
+Negative Acc: 0.6385
+Acc: 0.6306
+P: 0.6351
+Recall: 0.6227
+F1: 0.6289
+loaded best_checkpoint (epoch 20, best_acc 0.6439, acc_bi 0.6438)
+Positive Acc: 0.6774
+Negative Acc: 0.5763
+Acc: 0.6271
+P: 0.6176
+Recall: 0.6774
+F1: 0.6462
+loaded best_checkpoint (epoch 24, best_acc 0.6458, acc_bi 0.6457)
+Positive Acc: 0.7010
+Negative Acc: 0.5570
+Acc: 0.6294
+P: 0.6153
+Recall: 0.7010
+F1: 0.6554
+loaded best_checkpoint (epoch 27, best_acc 0.6545, acc_bi 0.6545)
+Positive Acc: 0.6607
+Negative Acc: 0.6071
+Acc: 0.6340
+P: 0.6295
+Recall: 0.6607
+F1: 0.6447
+loaded best_checkpoint (epoch 54, best_acc 0.6579, acc_bi 0.6579)
+Positive Acc: 0.6250
+Negative Acc: 0.6211
+Acc: 0.6230
+P: 0.6250
+Recall: 0.6250
+F1: 0.6250
+loaded best_checkpoint (epoch 71, best_acc 0.6593, acc_bi 0.6593)
+Positive Acc: 0.6653
+Negative Acc: 0.5955
+Acc: 0.6306
+P: 0.6243
+Recall: 0.6653
+F1: 0.6442
+loaded best_checkpoint (epoch 104, best_acc 0.6640, acc_bi 0.6640)
+Positive Acc: 0.6187
+Negative Acc: 0.6275
+Acc: 0.6230
+P: 0.6266
+Recall: 0.6187
+F1: 0.6226
+loaded best_checkpoint (epoch 176, best_acc 0.6656, acc_bi 0.6655)
+Positive Acc: 0.7224
+Negative Acc: 0.5640
+Acc: 0.6436
+P: 0.6261
+Recall: 0.7224
+F1: 0.6708
+loaded best_checkpoint (epoch 179, best_acc 0.6722, acc_bi 0.6722)
+Positive Acc: 0.6607
+Negative Acc: 0.6059
+Acc: 0.6335
+P: 0.6288
+Recall: 0.6607
+F1: 0.6444
+loaded best_checkpoint (epoch 222, best_acc 0.6725, acc_bi 0.6725)
+Positive Acc: 0.6406
+Negative Acc: 0.6368
+Acc: 0.6387
+P: 0.6406
+Recall: 0.6406
+F1: 0.6406
+loaded best_checkpoint (epoch 343, best_acc 0.6727, acc_bi 0.6726)
+Positive Acc: 0.6624
+Negative Acc: 0.6036
+Acc: 0.6332
+P: 0.6281
+Recall: 0.6624
+F1: 0.6448

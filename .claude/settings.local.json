@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git rm *)",
+      "Bash(grep -E '\\\\.parquet$|\\\\.pkl$|\\\\.pth$|\\\\.pth\\\\.tar$')",
+      "Bash(git count-objects *)",
+      "Bash(xargs -0 du -ch)",
+      "Bash(xargs -0 ls -lh)",
+      "Bash(sort -k5 -hr)",
+      "Bash(git prune *)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\wangxianpeng\\Desktop\\Generator-ADG\\.git"
+    ]
+  }
+}

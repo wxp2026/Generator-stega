@@ -1,0 +1,22 @@
+# Data files
+*.parquet
+*.pkl
+
+# Model weights
+*.pth
+*.pth.tar
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

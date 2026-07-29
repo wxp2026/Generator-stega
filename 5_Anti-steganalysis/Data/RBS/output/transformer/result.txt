@@ -1,0 +1,128 @@
+loaded best_checkpoint (epoch 0, best_acc 0.5615)
+Positive Sample Accuracy: 0.0000
+Negative Sample Accuracy: 1.0000
+Total Accuracy: 0.5607
+Total Accuracy_1: 0.5607
+Total Precision: 0.0000
+Total Recall: 0.0000
+Total F1 Score: 0.0000
+loaded best_checkpoint (epoch 2, best_acc 0.8121)
+Positive Sample Accuracy: 0.6190
+Negative Sample Accuracy: 0.9701
+Total Accuracy: 0.8159
+Total Accuracy_1: 0.8159
+Total Precision: 0.9420
+Total Recall: 0.6190
+Total F1 Score: 0.7471
+loaded best_checkpoint (epoch 3, best_acc 0.8910)
+Positive Sample Accuracy: 0.9048
+Negative Sample Accuracy: 0.9030
+Total Accuracy: 0.9038
+Total Accuracy_1: 0.9038
+Total Precision: 0.8796
+Total Recall: 0.9048
+Total F1 Score: 0.8920
+loaded best_checkpoint (epoch 4, best_acc 0.9142)
+Positive Sample Accuracy: 0.8762
+Negative Sample Accuracy: 0.9552
+Total Accuracy: 0.9205
+Total Accuracy_1: 0.9205
+Total Precision: 0.9388
+Total Recall: 0.8762
+Total F1 Score: 0.9064
+loaded best_checkpoint (epoch 5, best_acc 0.9165)
+Positive Sample Accuracy: 0.8952
+Negative Sample Accuracy: 0.9179
+Total Accuracy: 0.9079
+Total Accuracy_1: 0.9079
+Total Precision: 0.8952
+Total Recall: 0.8952
+Total F1 Score: 0.8952
+loaded best_checkpoint (epoch 6, best_acc 0.9211)
+Positive Sample Accuracy: 0.9143
+Negative Sample Accuracy: 0.8582
+Total Accuracy: 0.8828
+Total Accuracy_1: 0.8828
+Total Precision: 0.8348
+Total Recall: 0.9143
+Total F1 Score: 0.8727
+loaded best_checkpoint (epoch 8, best_acc 0.9234)
+Positive Sample Accuracy: 0.8857
+Negative Sample Accuracy: 0.9104
+Total Accuracy: 0.8996
+Total Accuracy_1: 0.8996
+Total Precision: 0.8857
+Total Recall: 0.8857
+Total F1 Score: 0.8857
+loaded best_checkpoint (epoch 9, best_acc 0.9258)
+Positive Sample Accuracy: 0.8762
+Negative Sample Accuracy: 0.9403
+Total Accuracy: 0.9121
+Total Accuracy_1: 0.9121
+Total Precision: 0.9200
+Total Recall: 0.8762
+Total F1 Score: 0.8976
+loaded best_checkpoint (epoch 11, best_acc 0.9281)
+Positive Sample Accuracy: 0.8762
+Negative Sample Accuracy: 0.9478
+Total Accuracy: 0.9163
+Total Accuracy_1: 0.9163
+Total Precision: 0.9293
+Total Recall: 0.8762
+Total F1 Score: 0.9020
+loaded best_checkpoint (epoch 20, best_acc 0.9304)
+Positive Sample Accuracy: 0.8762
+Negative Sample Accuracy: 0.9552
+Total Accuracy: 0.9205
+Total Accuracy_1: 0.9205
+Total Precision: 0.9388
+Total Recall: 0.8762
+Total F1 Score: 0.9064
+loaded best_checkpoint (epoch 43, best_acc 0.9327)
+Positive Sample Accuracy: 0.8952
+Negative Sample Accuracy: 0.9552
+Total Accuracy: 0.9289
+Total Accuracy_1: 0.9289
+Total Precision: 0.9400
+Total Recall: 0.8952
+Total F1 Score: 0.9171
+loaded best_checkpoint (epoch 85, best_acc 0.9350)
+Positive Sample Accuracy: 0.8952
+Negative Sample Accuracy: 0.9552
+Total Accuracy: 0.9289
+Total Accuracy_1: 0.9289
+Total Precision: 0.9400
+Total Recall: 0.8952
+Total F1 Score: 0.9171
+loaded best_checkpoint (epoch 108, best_acc 0.9374)
+Positive Sample Accuracy: 0.8952
+Negative Sample Accuracy: 0.9552
+Total Accuracy: 0.9289
+Total Accuracy_1: 0.9289
+Total Precision: 0.9400
+Total Recall: 0.8952
+Total F1 Score: 0.9171
+loaded best_checkpoint (epoch 418, best_acc 0.9397)
+Positive Sample Accuracy: 0.9714
+Negative Sample Accuracy: 0.8507
+Total Accuracy: 0.9038
+Total Accuracy_1: 0.9038
+Total Precision: 0.8361
+Total Recall: 0.9714
+Total F1 Score: 0.8987
+loaded best_checkpoint (epoch 419, best_acc 0.9420)
+Positive Sample Accuracy: 0.9143
+Negative Sample Accuracy: 0.9403
+Total Accuracy: 0.9289
+Total Accuracy_1: 0.9289
+Total Precision: 0.9231
+Total Recall: 0.9143
+Total F1 Score: 0.9187
+loaded best_checkpoint (epoch 480, best_acc 0.9443)
+Positive Sample Accuracy: 0.9143
+Negative Sample Accuracy: 0.9478
+Total Accuracy: 0.9331
+Total Accuracy_1: 0.9331
+Total Precision: 0.9320
+Total Recall: 0.9143
+Total F1 Score: 0.9231
